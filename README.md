@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/wellington-augusto-s" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/WellingtonAugusto87/WellingtonAugusto87/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/WellingtonAugusto87/WellingtonAugusto87/blob/output/github-contribution-grid-snake.svg)-->
 <!--
 **WellingtonAugusto87/WellingtonAugusto87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
