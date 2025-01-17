@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WellingtonAugusto87&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/WellingtonAugusto87/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=WellingtonAugusto87&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/WellingtonAugusto87/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonAugusto87&layout=donut)](https://github.com/WellingtonAugusto87/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonAugusto87&layout=donut)](https://github.com/WellingtonAugusto87/github-readme-stats) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonAugusto87&hide_progress=true)
 
@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/wellington-augusto-s" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<!--![Snake animation](https://github.com/wellingtonaugusto87/wellingtonaugusto87/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/wellingtonaugusto87/wellingtonaugusto87/blob/output/github-contribution-grid-snake.svg)
 <!--
 **WellingtonAugusto87/WellingtonAugusto87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
